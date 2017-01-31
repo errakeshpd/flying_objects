@@ -27,11 +27,11 @@ add to application.js
 ##HTML
 ```html
 <div id="flyimage1" style="position:absolute; left: -500px; width:47; height:68;">
-<A href="http://google.com"><IMG SRC="test.gif" border=0></a>
+<a href="http://google.com"><img src="http://bestanimations.com/Animals/Birds/bird-animated-gif-26.gif"></a>
 </div>
 
 <div id="flyimage2" style="position:absolute; left: -500px; width:47; height:68;">
-<A href="http://google.com"><IMG SRC="test.gif" border=0></a>
+<a href="http://google.com"><img src="http://i1020.photobucket.com/albums/af321/moothedam/BirdsAnimated.gif"></a>
 </div>
 ```
 
