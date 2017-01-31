@@ -1,6 +1,11 @@
 # FlyingObjects
 
-One important feature of DHTML is it's ability to move elements around the page freely, without having to be tied down to one single spot on the page. "Virtual Max" took full advantage of this feature and created his cool "floating images" script for our Dynamic Drive surfers to use and enjoy. It's a cross-browser script that moves any number of images around the page (by wrapping the images inside <div>s, and animating each <div>), each following a randomly determined path. Furthermore, the images are clickable, making this script not only insanely cool, but practical as well!.
+## Make flying objects to your ruby on rails website
+
+##[live demo] (http://flyingbee.herokuapp.com/flying_bee/20)
+
+
+It's cross-browser supported library that moves any number of images around the page (by wrapping the images inside div's, and animating each div), each following a randomly determined path. Furthermore, the images are clickable, making this script not only insanely cool, but practical as well!.
 
 ## Installation
 
