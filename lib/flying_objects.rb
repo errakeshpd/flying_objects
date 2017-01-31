@@ -1,5 +1,8 @@
 require "flying_objects/version"
 
 module FlyingObjects
-  # Your code goes here...
+  module Rails
+    class Engine < ::Rails::Engine
+    end
+  end
 end
