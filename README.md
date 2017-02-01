@@ -1,5 +1,5 @@
 # FlyingObjects
-
+<a href="https://badge.fury.io/rb/flying_objects"><img src="https://badge.fury.io/rb/flying_objects.svg" alt="Gem Version" height="18"></a>
 ## Make flying objects to your ruby on rails website
 
 ##[live demo] (http://flyingbee.herokuapp.com/flying_bee/20)
